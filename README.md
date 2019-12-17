@@ -1,0 +1,1 @@
+A simple experimental game for EECS 494 W18 Project 2.
